@@ -2,7 +2,7 @@
 
 📖 Sobre o Projeto
 
-Este projeto faz parte do curso AI Fundamentals da Microsoft e tem como objetivo explorar as funcionalidades de Speech Recognition e Text Analysis utilizando serviços de inteligência artificial.
+Este projeto tem como objetivo explorar as funcionalidades de Speech Recognition e Text Analysis utilizando serviços de inteligência artificial.
 
 📂 Estrutura do Repositório
 
