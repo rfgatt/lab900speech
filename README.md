@@ -41,3 +41,19 @@ O Speech Recognition funciona bem para textos curtos e estruturados, mas pode te
 A análise de sentimentos pode não ser 100% precisa, especialmente para frases ambíguas ou irônicas.
 
 O processamento de texto abre portas para aplicações interessantes como chatbots, classificação de sentimentos em redes sociais e análise automatizada de feedbacks.
+
+#Create a Project
+
+![image](https://github.com/user-attachments/assets/bad38f67-7ff8-4f47-865b-48f530103796)
+
+![image](https://github.com/user-attachments/assets/f71fccfc-2939-4f23-82c6-57e5fc2d2a26)
+
+![image](https://github.com/user-attachments/assets/72fdc275-0937-439c-97e0-012b7fcaa308)
+
+![image](https://github.com/user-attachments/assets/0270f480-cba5-4b49-a309-6beda04e5b9e)
+
+![image](https://github.com/user-attachments/assets/ee1929b6-c811-4bc8-9e33-e93ee8660ce9)
+
+
+
+
